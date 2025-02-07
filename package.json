@@ -10,10 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
-    "expo": "~48.0.9",                // or a current version of Expo
-    "firebase": "^9.17.2",           // or latest 9.x
-    "react": "18.1.0",               // match React Native version’s requirement
-    "react-native": "0.70.5",        // or the version Expo is pinned to
+    "expo": "~48.0.9",
+    "firebase": "^9.17.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/stack": "^6.3.11"
   },

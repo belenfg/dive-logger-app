@@ -34,13 +34,7 @@ npm install --global expo-cli
 
 ## Installation
 
-1. **Clone** this repository:  
-   ```bash
-   git clone https://github.com/your-username/dive-logger-app.git
-   cd dive-logger-app
-   ```
-
-2. **Install dependencies**:  
+1. **Install dependencies**:  
    ```bash
    # Using npm
    npm install
@@ -49,7 +43,7 @@ npm install --global expo-cli
    yarn
    ```
 
-3. **Configure Firebase**:  
+2. **Configure Firebase**:  
    - Create a [Firebase project](https://console.firebase.google.com/) and enable:
      - Authentication (email/password)
      - Firestore database
